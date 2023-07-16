@@ -1,7 +1,7 @@
-QuadDisplay2
-============
+QuadDisplayII
+=============
 
-Arduino library for the [QuadDisplay](https://amperka.com/products/troyka-quad-display) module.
+Arduino library for the [QuadDisplay](https://amperka.com/products/troyka-quad-display) module and for those similar, based on 4094 shift-and-store bus registers.
 
 Installation
 ============

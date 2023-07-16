@@ -14,14 +14,17 @@ QuadDisplay		KEYWORD1
 
 begin 			KEYWORD2
 end 			KEYWORD2
-displayInt		KEYWORD2
-displayFloat 		KEYWORD2
+getPixelState 		KEYWORD2
+pushSegment 		KEYWORD2
 displayDigits 		KEYWORD2
 displaySegments		KEYWORD2
+displayClear		KEYWORD2
+displayInt		KEYWORD2
+displayFloat 		KEYWORD2
 displayTemperatureC	KEYWORD2
 displayHumidity		KEYWORD2
 displayScore		KEYWORD2
-displayClear		KEYWORD2
+displayIP 		KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
