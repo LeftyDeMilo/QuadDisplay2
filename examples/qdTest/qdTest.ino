@@ -1,5 +1,5 @@
 // Подключаем библиотеку для работы с дисплеем
-#include <QuadDisplay2.h>
+#include <QuadDisplayII.h>
 // создаём объект класса QuadDisplay и передаём номер пина CS
 QuadDisplay qd(9);
 
